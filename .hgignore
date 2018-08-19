@@ -1,0 +1,4 @@
+syntax: regexp
+^vendor$
+^node_modules$
+^storage$
